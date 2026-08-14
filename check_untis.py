@@ -57,8 +57,15 @@ def fetch_substitutions():
         klasse_obj = session.klassen().filter(name=klass)[0]
         timetable = session.timetable(klasse=klasse_obj, start=today, end=tomorrow)
     else:
-        # Fällt zurück auf den eingeloggten Nutzer selbst (Schüler/Lehrer-Login)
-        timetable = session.my_timetable(start=today, end=tomorrow)
+        # my_timetable() ist bei manchen Schulen fehlerhaft (falscher personType).
+        # Deshalb explizit als Schüler (type=5) mit der eigenen personId abfragen.
+        person_id = session.login_result["personId"]
+        try:
+            timetable = session.timetable(student=person_id, start=today, end=tomorrow)
+        except Exception:
+            # Fallback: manche Konten sind kein "student"-Element, sondern brauchen
+            # den generischen my_timetable()-Weg.
+            timetable = session.my_timetable(start=today, end=tomorrow)
 
     entries = []
     for period in timetable:
