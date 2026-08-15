@@ -2,7 +2,7 @@ name: Vertretungsplan Check
 
 on:
   schedule:
-    - cron: "*/20 6-18 * * 1-5"
+    - cron: "*/5 4-21 * * 0-5"
   workflow_dispatch: {}
 
 permissions:
