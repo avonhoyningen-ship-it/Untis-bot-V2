@@ -103,7 +103,7 @@ def save_last_state(entries):
 
 
 def entry_key(e):
-    return f'{e["date"]}|{e["start"]}|{e["subject"]}'
+return f'{e["date"]}|{e["start"]}|{e["subject"]}|{e["teacher"]}'
 
 
 def diff_entries(old, new):
