@@ -1,0 +1,442 @@
+[
+  {
+    "date": "2026-08-17",
+    "start": "08:00",
+    "end": "08:45",
+    "subject": "MA",
+    "teacher": "Wg",
+    "room": "140",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-08-17",
+    "start": "08:00",
+    "end": "08:45",
+    "subject": "PL",
+    "teacher": "Fu",
+    "room": "506",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-08-17",
+    "start": "08:45",
+    "end": "09:30",
+    "subject": "MA",
+    "teacher": "Wg",
+    "room": "140",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-08-17",
+    "start": "08:45",
+    "end": "09:30",
+    "subject": "PL",
+    "teacher": "Fu",
+    "room": "506",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-08-17",
+    "start": "09:50",
+    "end": "10:35",
+    "subject": "DE",
+    "teacher": "Vo",
+    "room": "135",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-08-17",
+    "start": "09:50",
+    "end": "10:35",
+    "subject": "PH",
+    "teacher": "Na",
+    "room": "PhÜ",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-08-17",
+    "start": "10:35",
+    "end": "11:20",
+    "subject": "DE",
+    "teacher": "Vo",
+    "room": "135",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-08-17",
+    "start": "10:35",
+    "end": "11:20",
+    "subject": "PH",
+    "teacher": "Na",
+    "room": "PhÜ",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-08-17",
+    "start": "11:40",
+    "end": "12:25",
+    "subject": "PW",
+    "teacher": "Hs",
+    "room": "135",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-08-17",
+    "start": "12:25",
+    "end": "13:10",
+    "subject": "PW",
+    "teacher": "Hs",
+    "room": "135",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-08-17",
+    "start": "13:45",
+    "end": "14:30",
+    "subject": "SP",
+    "teacher": "Kt",
+    "room": "S4.1",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-08-17",
+    "start": "14:30",
+    "end": "15:15",
+    "subject": "SP",
+    "teacher": "Kt",
+    "room": "S4.1",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-08-18",
+    "start": "08:00",
+    "end": "08:45",
+    "subject": "PL",
+    "teacher": "Ni",
+    "room": "506",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-08-18",
+    "start": "08:45",
+    "end": "09:30",
+    "subject": "PL",
+    "teacher": "Ni",
+    "room": "506",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-08-18",
+    "start": "09:50",
+    "end": "10:35",
+    "subject": "DE",
+    "teacher": "Lg",
+    "room": "140",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-08-18",
+    "start": "10:35",
+    "end": "11:20",
+    "subject": "DE",
+    "teacher": "Lg",
+    "room": "140",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-08-18",
+    "start": "11:40",
+    "end": "12:25",
+    "subject": "GE",
+    "teacher": "Wg",
+    "room": "140",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-08-18",
+    "start": "12:25",
+    "end": "13:10",
+    "subject": "GE",
+    "teacher": "Wg",
+    "room": "140",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-08-18",
+    "start": "13:45",
+    "end": "14:30",
+    "subject": "SF",
+    "teacher": "Ap",
+    "room": "101",
+    "code": "cancelled",
+    "info": ""
+  },
+  {
+    "date": "2026-08-18",
+    "start": "13:45",
+    "end": "14:30",
+    "subject": "SF",
+    "teacher": "Bu",
+    "room": "103",
+    "code": "cancelled",
+    "info": ""
+  },
+  {
+    "date": "2026-08-18",
+    "start": "14:30",
+    "end": "15:15",
+    "subject": "SF",
+    "teacher": "Ap",
+    "room": "101",
+    "code": "cancelled",
+    "info": ""
+  },
+  {
+    "date": "2026-08-18",
+    "start": "14:30",
+    "end": "15:15",
+    "subject": "SF",
+    "teacher": "Bu",
+    "room": "103",
+    "code": "cancelled",
+    "info": ""
+  },
+  {
+    "date": "2026-08-19",
+    "start": "08:00",
+    "end": "08:45",
+    "subject": "GE",
+    "teacher": "Wg",
+    "room": "140",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-08-19",
+    "start": "08:45",
+    "end": "09:30",
+    "subject": "GE",
+    "teacher": "Wg",
+    "room": "140",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-08-19",
+    "start": "09:50",
+    "end": "10:35",
+    "subject": "DE",
+    "teacher": "Vo",
+    "room": "135",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-08-19",
+    "start": "09:50",
+    "end": "10:35",
+    "subject": "PH",
+    "teacher": "Na",
+    "room": "PhÜ",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-08-19",
+    "start": "10:35",
+    "end": "11:20",
+    "subject": "DE",
+    "teacher": "Vo",
+    "room": "135",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-08-19",
+    "start": "10:35",
+    "end": "11:20",
+    "subject": "PH",
+    "teacher": "Na",
+    "room": "PhÜ",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-08-19",
+    "start": "13:45",
+    "end": "14:30",
+    "subject": "BI",
+    "teacher": "Ze",
+    "room": "BiÜ",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-08-19",
+    "start": "14:30",
+    "end": "15:15",
+    "subject": "BI",
+    "teacher": "Ze",
+    "room": "BiÜ",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-08-20",
+    "start": "08:00",
+    "end": "08:45",
+    "subject": "DE",
+    "teacher": "Lg",
+    "room": "140",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-08-20",
+    "start": "08:45",
+    "end": "09:30",
+    "subject": "DE",
+    "teacher": "Lg",
+    "room": "140",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-08-20",
+    "start": "09:50",
+    "end": "10:35",
+    "subject": "PW",
+    "teacher": "Hs",
+    "room": "135",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-08-20",
+    "start": "10:35",
+    "end": "11:20",
+    "subject": "PW",
+    "teacher": "Hs",
+    "room": "135",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-08-20",
+    "start": "11:40",
+    "end": "12:25",
+    "subject": "EN",
+    "teacher": "Me",
+    "room": "135",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-08-20",
+    "start": "12:25",
+    "end": "13:10",
+    "subject": "EN",
+    "teacher": "Me",
+    "room": "135",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-08-20",
+    "start": "13:45",
+    "end": "14:30",
+    "subject": "GE",
+    "teacher": "Wg",
+    "room": "140",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-08-20",
+    "start": "14:30",
+    "end": "15:15",
+    "subject": "GE",
+    "teacher": "Wg",
+    "room": "140",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-08-21",
+    "start": "08:00",
+    "end": "08:45",
+    "subject": "DE",
+    "teacher": "Lg",
+    "room": "140",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-08-21",
+    "start": "08:45",
+    "end": "09:30",
+    "subject": "DE",
+    "teacher": "Lg",
+    "room": "140",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-08-21",
+    "start": "11:40",
+    "end": "12:25",
+    "subject": "PL",
+    "teacher": "Ni",
+    "room": "506",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-08-21",
+    "start": "12:25",
+    "end": "13:10",
+    "subject": "PL",
+    "teacher": "Ni",
+    "room": "506",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-08-21",
+    "start": "13:45",
+    "end": "14:30",
+    "subject": "AG",
+    "teacher": "GM",
+    "room": "107",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-08-21",
+    "start": "14:30",
+    "end": "15:15",
+    "subject": "AG",
+    "teacher": "GM",
+    "room": "107",
+    "code": "regular",
+    "info": ""
+  }
+]
