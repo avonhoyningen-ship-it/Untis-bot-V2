@@ -51,7 +51,7 @@ def fetch_substitutions():
     ).login()
 
     today = datetime.date.today()
-    tomorrow = today + datetime.timedelta(days=1)
+    tomorrow = today + datetime.timedelta(days=7)
 
     if klass:
         klasse_obj = session.klassen().filter(name=klass)[0]
