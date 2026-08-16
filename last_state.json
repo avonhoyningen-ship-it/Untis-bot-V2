@@ -43,29 +43,9 @@
     "date": "2026-08-17",
     "start": "09:50",
     "end": "10:35",
-    "subject": "DE",
-    "teacher": "Vo",
-    "room": "135",
-    "code": "regular",
-    "info": ""
-  },
-  {
-    "date": "2026-08-17",
-    "start": "09:50",
-    "end": "10:35",
     "subject": "PH",
     "teacher": "Na",
     "room": "PhÜ",
-    "code": "regular",
-    "info": ""
-  },
-  {
-    "date": "2026-08-17",
-    "start": "10:35",
-    "end": "11:20",
-    "subject": "DE",
-    "teacher": "Vo",
-    "room": "135",
     "code": "regular",
     "info": ""
   },
@@ -243,29 +223,9 @@
     "date": "2026-08-19",
     "start": "09:50",
     "end": "10:35",
-    "subject": "DE",
-    "teacher": "Vo",
-    "room": "135",
-    "code": "regular",
-    "info": ""
-  },
-  {
-    "date": "2026-08-19",
-    "start": "09:50",
-    "end": "10:35",
     "subject": "PH",
     "teacher": "Na",
     "room": "PhÜ",
-    "code": "regular",
-    "info": ""
-  },
-  {
-    "date": "2026-08-19",
-    "start": "10:35",
-    "end": "11:20",
-    "subject": "DE",
-    "teacher": "Vo",
-    "room": "135",
     "code": "regular",
     "info": ""
   },
