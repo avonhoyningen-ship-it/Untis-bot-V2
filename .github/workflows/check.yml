@@ -2,7 +2,13 @@ name: Vertretungsplan Check
 
 on:
   schedule:
-    - cron: "*/5 4-21 * * 0-5"
+    - cron: on:
+  schedule:
+    - cron: '*/5 4-13 * * 1-5'
+    - cron: '*/30 0-3,14-23 * * 1-5'
+    - cron: '*/30 * * * 0,6'
+  workflow_dispatch:
+
   workflow_dispatch: {}
 
 permissions:
