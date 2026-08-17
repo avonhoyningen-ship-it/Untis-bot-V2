@@ -11,31 +11,11 @@
   },
   {
     "date": "2026-08-17",
-    "start": "08:00",
-    "end": "08:45",
-    "subject": "PL",
-    "teacher": "Fu",
-    "room": "506",
-    "code": "regular",
-    "info": ""
-  },
-  {
-    "date": "2026-08-17",
     "start": "08:45",
     "end": "09:30",
     "subject": "MA",
     "teacher": "Wg",
     "room": "140",
-    "code": "regular",
-    "info": ""
-  },
-  {
-    "date": "2026-08-17",
-    "start": "08:45",
-    "end": "09:30",
-    "subject": "PL",
-    "teacher": "Fu",
-    "room": "506",
     "code": "regular",
     "info": ""
   },
@@ -411,31 +391,11 @@
   },
   {
     "date": "2026-08-24",
-    "start": "08:00",
-    "end": "08:45",
-    "subject": "PL",
-    "teacher": "Fu",
-    "room": "506",
-    "code": "regular",
-    "info": ""
-  },
-  {
-    "date": "2026-08-24",
     "start": "08:45",
     "end": "09:30",
     "subject": "MA",
     "teacher": "Wg",
     "room": "140",
-    "code": "regular",
-    "info": ""
-  },
-  {
-    "date": "2026-08-24",
-    "start": "08:45",
-    "end": "09:30",
-    "subject": "PL",
-    "teacher": "Fu",
-    "room": "506",
     "code": "regular",
     "info": ""
   },
