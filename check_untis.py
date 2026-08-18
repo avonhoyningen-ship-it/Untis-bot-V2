@@ -23,6 +23,8 @@ import hashlib
 import datetime
 import requests
 import webuntis
+import time
+
 
 STATE_FILE = "last_state.json"
 
