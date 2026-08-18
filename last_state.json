@@ -71,31 +71,11 @@
   },
   {
     "date": "2026-08-18",
-    "start": "13:45",
-    "end": "14:30",
-    "subject": "SF",
-    "teacher": "Bu",
-    "room": "103",
-    "code": "cancelled",
-    "info": ""
-  },
-  {
-    "date": "2026-08-18",
     "start": "14:30",
     "end": "15:15",
     "subject": "SF",
     "teacher": "Ap",
     "room": "101",
-    "code": "cancelled",
-    "info": ""
-  },
-  {
-    "date": "2026-08-18",
-    "start": "14:30",
-    "end": "15:15",
-    "subject": "SF",
-    "teacher": "Bu",
-    "room": "103",
     "code": "cancelled",
     "info": ""
   },
@@ -451,31 +431,11 @@
   },
   {
     "date": "2026-08-25",
-    "start": "13:45",
-    "end": "14:30",
-    "subject": "SF",
-    "teacher": "Bu",
-    "room": "103",
-    "code": "regular",
-    "info": ""
-  },
-  {
-    "date": "2026-08-25",
     "start": "14:30",
     "end": "15:15",
     "subject": "SF",
     "teacher": "Ap",
     "room": "101",
-    "code": "regular",
-    "info": ""
-  },
-  {
-    "date": "2026-08-25",
-    "start": "14:30",
-    "end": "15:15",
-    "subject": "SF",
-    "teacher": "Bu",
-    "room": "103",
     "code": "regular",
     "info": ""
   }
