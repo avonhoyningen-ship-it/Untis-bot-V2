@@ -1,85 +1,5 @@
 [
   {
-    "date": "2026-08-20",
-    "start": "08:00",
-    "end": "08:45",
-    "subject": "DE",
-    "teacher": "Lg",
-    "room": "140",
-    "code": "regular",
-    "info": ""
-  },
-  {
-    "date": "2026-08-20",
-    "start": "08:45",
-    "end": "09:30",
-    "subject": "DE",
-    "teacher": "Lg",
-    "room": "140",
-    "code": "regular",
-    "info": ""
-  },
-  {
-    "date": "2026-08-20",
-    "start": "09:50",
-    "end": "10:35",
-    "subject": "PW",
-    "teacher": "Hs",
-    "room": "135",
-    "code": "regular",
-    "info": ""
-  },
-  {
-    "date": "2026-08-20",
-    "start": "10:35",
-    "end": "11:20",
-    "subject": "PW",
-    "teacher": "Hs",
-    "room": "135",
-    "code": "regular",
-    "info": ""
-  },
-  {
-    "date": "2026-08-20",
-    "start": "11:40",
-    "end": "12:25",
-    "subject": "EN",
-    "teacher": "Me",
-    "room": "135",
-    "code": "regular",
-    "info": ""
-  },
-  {
-    "date": "2026-08-20",
-    "start": "12:25",
-    "end": "13:10",
-    "subject": "EN",
-    "teacher": "Me",
-    "room": "135",
-    "code": "regular",
-    "info": ""
-  },
-  {
-    "date": "2026-08-20",
-    "start": "13:45",
-    "end": "14:30",
-    "subject": "GE",
-    "teacher": "Wg",
-    "room": "140",
-    "code": "regular",
-    "info": ""
-  },
-  {
-    "date": "2026-08-20",
-    "start": "14:30",
-    "end": "15:15",
-    "subject": "GE",
-    "teacher": "Wg",
-    "room": "140",
-    "code": "regular",
-    "info": ""
-  },
-  {
     "date": "2026-08-21",
     "start": "08:00",
     "end": "08:45",
@@ -436,6 +356,66 @@
     "subject": "MA",
     "teacher": "Wg",
     "room": "140",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-08-28",
+    "start": "08:00",
+    "end": "08:45",
+    "subject": "PW",
+    "teacher": "Hs",
+    "room": "135",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-08-28",
+    "start": "08:45",
+    "end": "09:30",
+    "subject": "PW",
+    "teacher": "Hs",
+    "room": "135",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-08-28",
+    "start": "09:50",
+    "end": "10:35",
+    "subject": "BI",
+    "teacher": "Ze",
+    "room": "NAT2",
+    "code": "cancelled",
+    "info": ""
+  },
+  {
+    "date": "2026-08-28",
+    "start": "10:35",
+    "end": "11:20",
+    "subject": "BI",
+    "teacher": "Ze",
+    "room": "NAT2",
+    "code": "cancelled",
+    "info": ""
+  },
+  {
+    "date": "2026-08-28",
+    "start": "13:45",
+    "end": "14:30",
+    "subject": "AG",
+    "teacher": "GM",
+    "room": "107",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-08-28",
+    "start": "14:30",
+    "end": "15:15",
+    "subject": "AG",
+    "teacher": "GM",
+    "room": "107",
     "code": "regular",
     "info": ""
   }
