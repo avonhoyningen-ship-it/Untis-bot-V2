@@ -242,11 +242,21 @@
   {
     "date": "2026-08-26",
     "start": "09:50",
+    "end": "13:10",
+    "subject": "?",
+    "teacher": "Si",
+    "room": "?",
+    "code": "irregular",
+    "info": ""
+  },
+  {
+    "date": "2026-08-26",
+    "start": "09:50",
     "end": "10:35",
     "subject": "PH",
     "teacher": "Na",
     "room": "PhÜ",
-    "code": "regular",
+    "code": "cancelled",
     "info": ""
   },
   {
@@ -256,7 +266,7 @@
     "subject": "PH",
     "teacher": "Na",
     "room": "PhÜ",
-    "code": "regular",
+    "code": "cancelled",
     "info": ""
   },
   {
