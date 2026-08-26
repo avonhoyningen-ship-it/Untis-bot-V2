@@ -72,11 +72,21 @@
   {
     "date": "2026-08-27",
     "start": "08:00",
+    "end": "13:10",
+    "subject": "?",
+    "teacher": "Wg",
+    "room": "?",
+    "code": "irregular",
+    "info": ""
+  },
+  {
+    "date": "2026-08-27",
+    "start": "08:00",
     "end": "08:45",
     "subject": "DE",
     "teacher": "Lg",
     "room": "140",
-    "code": "regular",
+    "code": "cancelled",
     "info": ""
   },
   {
@@ -86,7 +96,7 @@
     "subject": "DE",
     "teacher": "Lg",
     "room": "140",
-    "code": "regular",
+    "code": "cancelled",
     "info": ""
   },
   {
@@ -96,7 +106,7 @@
     "subject": "PW",
     "teacher": "Hs",
     "room": "135",
-    "code": "regular",
+    "code": "cancelled",
     "info": ""
   },
   {
@@ -106,7 +116,7 @@
     "subject": "PW",
     "teacher": "Hs",
     "room": "135",
-    "code": "regular",
+    "code": "cancelled",
     "info": ""
   },
   {
@@ -116,7 +126,7 @@
     "subject": "EN",
     "teacher": "Me",
     "room": "135",
-    "code": "regular",
+    "code": "cancelled",
     "info": ""
   },
   {
@@ -126,7 +136,7 @@
     "subject": "EN",
     "teacher": "Me",
     "room": "135",
-    "code": "regular",
+    "code": "cancelled",
     "info": ""
   },
   {
@@ -136,7 +146,7 @@
     "subject": "MA",
     "teacher": "Wg",
     "room": "140",
-    "code": "regular",
+    "code": "cancelled",
     "info": ""
   },
   {
@@ -146,7 +156,17 @@
     "subject": "MA",
     "teacher": "Wg",
     "room": "140",
-    "code": "regular",
+    "code": "cancelled",
+    "info": ""
+  },
+  {
+    "date": "2026-08-28",
+    "start": "08:00",
+    "end": "11:20",
+    "subject": "?",
+    "teacher": "Wg",
+    "room": "?",
+    "code": "irregular",
     "info": ""
   },
   {
@@ -156,7 +176,7 @@
     "subject": "PW",
     "teacher": "Hs",
     "room": "135",
-    "code": "regular",
+    "code": "cancelled",
     "info": ""
   },
   {
@@ -166,7 +186,7 @@
     "subject": "PW",
     "teacher": "Hs",
     "room": "135",
-    "code": "regular",
+    "code": "cancelled",
     "info": ""
   },
   {
@@ -196,7 +216,7 @@
     "subject": "AG",
     "teacher": "GM",
     "room": "107",
-    "code": "regular",
+    "code": "cancelled",
     "info": ""
   },
   {
@@ -206,7 +226,7 @@
     "subject": "AG",
     "teacher": "GM",
     "room": "107",
-    "code": "regular",
+    "code": "cancelled",
     "info": ""
   },
   {
