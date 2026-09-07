@@ -351,11 +351,31 @@
   },
   {
     "date": "2026-09-11",
+    "start": "13:45",
+    "end": "14:30",
+    "subject": "AG",
+    "teacher": "Ma",
+    "room": "?",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-09-11",
     "start": "14:30",
     "end": "15:15",
     "subject": "AG",
     "teacher": "GM",
     "room": "107",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-09-11",
+    "start": "14:30",
+    "end": "15:15",
+    "subject": "AG",
+    "teacher": "Ma",
+    "room": "?",
     "code": "regular",
     "info": ""
   },
