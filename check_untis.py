@@ -3,7 +3,7 @@
 WebUntis -> Telegram Vertretungsplan-Bot
 
 Prüft den WebUntis-Vertretungsplan für heute + morgen und schickt eine
-Telegram-Nachricht, wenn sich etwas geändert hat (neue/geänderte/entfallene Stunden).
+Telegram-Nachricht, wenn sich etwas geändert hat (neue/geänderte Stunden).
 
 Konfiguration über Umgebungsvariablen (siehe .env.example bzw. GitHub Secrets):
   UNTIS_SCHOOL     - Schulname wie in WebUntis hinterlegt (z.B. "Meine Schule")
@@ -53,7 +53,8 @@ def fetch_substitutions():
     ).login()
 
     today = datetime.date.today()
-    tomorrow = today + datetime.timedelta(days=2)
+    # 2-Tage-Fenster: heute + morgen
+    tomorrow = today + datetime.timedelta(days=1)
 
     if klass:
         klasse_obj = session.klassen().filter(name=klass)[0]
@@ -112,7 +113,7 @@ def diff_entries(old, new):
     old_map = {entry_key(e): e for e in old}
     new_map = {entry_key(e): e for e in new}
 
-    added, changed, removed = [], [], []
+    added, changed = [], []
 
     for key, e in new_map.items():
         if key not in old_map:
@@ -122,11 +123,9 @@ def diff_entries(old, new):
             if old_map[key] != e:
                 changed.append(e)
 
-    for key, e in old_map.items():
-        if key not in new_map and e["code"] != "regular":
-            removed.append(e)
-
-    return added, changed, removed
+    # Einträge, die aus dem Plan verschwunden sind (z.B. wieder normal),
+    # werden bewusst NICHT gemeldet - nur intern im State aktualisiert.
+    return added, changed
 
 
 def format_entry(e):
@@ -157,16 +156,14 @@ def main():
         sys.exit(1)
 
     old_entries = load_last_state()
-    added, changed, removed = diff_entries(old_entries, new_entries)
+    added, changed = diff_entries(old_entries, new_entries)
 
-    if added or changed or removed:
+    if added or changed:
         parts = ["📢 *Vertretungsplan-Update*\n"]
         for e in added:
             parts.append(format_entry(e))
         for e in changed:
             parts.append(format_entry(e))
-        for e in removed:
-            parts.append(f"✅ Wieder normal: {e['date']} {e['start']}-{e['end']} {e['subject']}")
         message = "\n".join(parts)
         print(message)
         send_telegram(message)
