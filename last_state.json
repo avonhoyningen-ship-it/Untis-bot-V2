@@ -1,95 +1,5 @@
 [
   {
-    "date": "2026-09-21",
-    "start": "08:00",
-    "end": "08:45",
-    "subject": "MA",
-    "teacher": "Wg",
-    "room": "140",
-    "code": "regular",
-    "info": ""
-  },
-  {
-    "date": "2026-09-21",
-    "start": "08:45",
-    "end": "09:30",
-    "subject": "MA",
-    "teacher": "Wg",
-    "room": "140",
-    "code": "regular",
-    "info": ""
-  },
-  {
-    "date": "2026-09-21",
-    "start": "09:50",
-    "end": "11:20",
-    "subject": "?",
-    "teacher": "Me",
-    "room": "Rot",
-    "code": "irregular",
-    "info": ""
-  },
-  {
-    "date": "2026-09-21",
-    "start": "09:50",
-    "end": "10:35",
-    "subject": "EN",
-    "teacher": "Me",
-    "room": "135",
-    "code": "cancelled",
-    "info": ""
-  },
-  {
-    "date": "2026-09-21",
-    "start": "10:35",
-    "end": "11:20",
-    "subject": "EN",
-    "teacher": "Me",
-    "room": "135",
-    "code": "cancelled",
-    "info": ""
-  },
-  {
-    "date": "2026-09-21",
-    "start": "11:40",
-    "end": "12:25",
-    "subject": "PW",
-    "teacher": "Hs",
-    "room": "135",
-    "code": "regular",
-    "info": ""
-  },
-  {
-    "date": "2026-09-21",
-    "start": "12:25",
-    "end": "13:10",
-    "subject": "PW",
-    "teacher": "Hs",
-    "room": "135",
-    "code": "regular",
-    "info": ""
-  },
-  {
-    "date": "2026-09-21",
-    "start": "13:45",
-    "end": "14:30",
-    "subject": "SP",
-    "teacher": "Kt",
-    "room": "S4.1",
-    "code": "regular",
-    "info": ""
-  },
-  {
-    "date": "2026-09-21",
-    "start": "14:30",
-    "end": "15:15",
-    "subject": "SP",
-    "teacher": "Kt",
-    "room": "S4.1",
-    "code": "regular",
-    "info": ""
-  },
-  {
     "date": "2026-09-22",
     "start": "08:00",
     "end": "08:45",
@@ -166,6 +76,86 @@
     "subject": "SF",
     "teacher": "Ap",
     "room": "101",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-09-23",
+    "start": "08:00",
+    "end": "08:45",
+    "subject": "GE",
+    "teacher": "Wg",
+    "room": "140",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-09-23",
+    "start": "08:45",
+    "end": "09:30",
+    "subject": "GE",
+    "teacher": "Wg",
+    "room": "140",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-09-23",
+    "start": "09:50",
+    "end": "10:35",
+    "subject": "PH",
+    "teacher": "Na",
+    "room": "PhÜ",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-09-23",
+    "start": "10:35",
+    "end": "11:20",
+    "subject": "PH",
+    "teacher": "Na",
+    "room": "PhÜ",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-09-23",
+    "start": "13:45",
+    "end": "14:30",
+    "subject": "BI",
+    "teacher": "Ze",
+    "room": "BiÜ",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-09-23",
+    "start": "13:45",
+    "end": "14:30",
+    "subject": "IF",
+    "teacher": "Na",
+    "room": "406",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-09-23",
+    "start": "14:30",
+    "end": "15:15",
+    "subject": "BI",
+    "teacher": "Ze",
+    "room": "BiÜ",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-09-23",
+    "start": "14:30",
+    "end": "15:15",
+    "subject": "IF",
+    "teacher": "Na",
+    "room": "406",
     "code": "regular",
     "info": ""
   }
