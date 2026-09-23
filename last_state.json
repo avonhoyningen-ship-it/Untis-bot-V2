@@ -6,7 +6,7 @@
     "subject": "GE",
     "teacher": "Wg",
     "room": "140",
-    "code": "regular",
+    "code": "cancelled",
     "info": ""
   },
   {
@@ -16,7 +16,7 @@
     "subject": "GE",
     "teacher": "Wg",
     "room": "140",
-    "code": "regular",
+    "code": "cancelled",
     "info": ""
   },
   {
@@ -145,8 +145,8 @@
     "end": "14:30",
     "subject": "MA",
     "teacher": "Wg",
-    "room": "102",
-    "code": "regular",
+    "room": "140",
+    "code": "cancelled",
     "info": ""
   },
   {
@@ -155,8 +155,8 @@
     "end": "15:15",
     "subject": "MA",
     "teacher": "Wg",
-    "room": "102",
-    "code": "regular",
+    "room": "140",
+    "code": "cancelled",
     "info": ""
   }
 ]
