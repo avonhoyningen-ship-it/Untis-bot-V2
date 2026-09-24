@@ -1,65 +1,5 @@
 [
   {
-    "date": "2026-09-23",
-    "start": "08:00",
-    "end": "08:45",
-    "subject": "GE",
-    "teacher": "Wg",
-    "room": "140",
-    "code": "cancelled",
-    "info": ""
-  },
-  {
-    "date": "2026-09-23",
-    "start": "08:45",
-    "end": "09:30",
-    "subject": "GE",
-    "teacher": "Wg",
-    "room": "140",
-    "code": "cancelled",
-    "info": ""
-  },
-  {
-    "date": "2026-09-23",
-    "start": "09:50",
-    "end": "10:35",
-    "subject": "PH",
-    "teacher": "Na",
-    "room": "PhÜ",
-    "code": "regular",
-    "info": ""
-  },
-  {
-    "date": "2026-09-23",
-    "start": "10:35",
-    "end": "11:20",
-    "subject": "PH",
-    "teacher": "Na",
-    "room": "PhÜ",
-    "code": "regular",
-    "info": ""
-  },
-  {
-    "date": "2026-09-23",
-    "start": "13:45",
-    "end": "14:30",
-    "subject": "IF",
-    "teacher": "Na",
-    "room": "406",
-    "code": "regular",
-    "info": ""
-  },
-  {
-    "date": "2026-09-23",
-    "start": "14:30",
-    "end": "15:15",
-    "subject": "IF",
-    "teacher": "Na",
-    "room": "406",
-    "code": "regular",
-    "info": ""
-  },
-  {
     "date": "2026-09-24",
     "start": "08:00",
     "end": "08:45",
@@ -137,6 +77,66 @@
     "teacher": "Wg",
     "room": "140",
     "code": "cancelled",
+    "info": ""
+  },
+  {
+    "date": "2026-09-25",
+    "start": "08:00",
+    "end": "08:45",
+    "subject": "PW",
+    "teacher": "Hs",
+    "room": "135",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-09-25",
+    "start": "08:45",
+    "end": "09:30",
+    "subject": "PW",
+    "teacher": "Hs",
+    "room": "135",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-09-25",
+    "start": "09:50",
+    "end": "10:35",
+    "subject": "IF",
+    "teacher": "Na",
+    "room": "406",
+    "code": "cancelled",
+    "info": ""
+  },
+  {
+    "date": "2026-09-25",
+    "start": "10:35",
+    "end": "11:20",
+    "subject": "IF",
+    "teacher": "Na",
+    "room": "406",
+    "code": "cancelled",
+    "info": ""
+  },
+  {
+    "date": "2026-09-25",
+    "start": "13:45",
+    "end": "14:30",
+    "subject": "AG",
+    "teacher": "GM",
+    "room": "107",
+    "code": "regular",
+    "info": ""
+  },
+  {
+    "date": "2026-09-25",
+    "start": "14:30",
+    "end": "15:15",
+    "subject": "AG",
+    "teacher": "GM",
+    "room": "107",
+    "code": "regular",
     "info": ""
   }
 ]
