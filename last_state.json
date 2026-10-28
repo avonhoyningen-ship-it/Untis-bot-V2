@@ -6,7 +6,7 @@
     "subject": "GE",
     "teacher": "Wg",
     "room": "140",
-    "code": "regular",
+    "code": "cancelled",
     "info": ""
   },
   {
@@ -16,7 +16,7 @@
     "subject": "GE",
     "teacher": "Wg",
     "room": "140",
-    "code": "regular",
+    "code": "cancelled",
     "info": ""
   },
   {
@@ -126,7 +126,7 @@
     "subject": "GE",
     "teacher": "Wg",
     "room": "140",
-    "code": "regular",
+    "code": "cancelled",
     "info": ""
   },
   {
@@ -136,7 +136,7 @@
     "subject": "GE",
     "teacher": "Wg",
     "room": "140",
-    "code": "regular",
+    "code": "cancelled",
     "info": ""
   }
 ]
